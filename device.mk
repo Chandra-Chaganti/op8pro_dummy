@@ -156,6 +156,7 @@ PRODUCT_PACKAGES += \
     init.qti.qcv.sh \
     launch_sniffer.sh \
     qca6234-service.sh \
+    startcontention.sh \
     terminate_sniffer.sh \
     ftm_power_config.sh \
     init.cust.rc \
